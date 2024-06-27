@@ -1,5 +1,0 @@
----
-deployment:
-  tasks:
-    - export DEPLOYPATH=/home/wizeorg/public_html/
-    - /bin/cp * $DEPLOYPATH
